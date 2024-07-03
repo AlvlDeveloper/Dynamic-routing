@@ -1,0 +1,26 @@
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .counter {
+    text-align: center;
+  }
+  
+  .buttons {
+    margin-top: 20px;
+  }
+  
+  .extra {
+    margin: 0 10px;
+    padding: 10px 20px;
+    font-size: 1rem;
+  }
+  .green{
+    color: green;
+  }
+  .red{
+    color: red;
+  }
